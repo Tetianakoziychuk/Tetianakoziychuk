@@ -17,4 +17,4 @@
 
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
-📫How to find me: https://www.linkedin.com/in/tetianakoziychuk/
+📫How to find me: [https](https://commons.wikimedia.org/wiki/File:LinkedIn_Logo.svg)://www.linkedin.com/in/tetianakoziychuk/
