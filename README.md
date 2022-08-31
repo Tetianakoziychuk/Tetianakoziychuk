@@ -18,6 +18,7 @@
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 
-📫How to find me: <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="tetianakoziychuk" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/tetianakoziychuk?trk=profile-badge"> Tetiana Koziychuk</a></div>
+# 📫How to find me:
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="tetianakoziychuk" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/tetianakoziychuk?trk=profile-badge"> Tetiana Koziychuk</a></div>
 
 
