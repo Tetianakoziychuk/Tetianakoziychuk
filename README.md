@@ -1,5 +1,6 @@
 # Hey there, I'm Tetiana :wave:
-#I am a QA Manual and Automation Engineer 
+
+# I am a QA Manual and Automation Engineer 
 
 <img align="left" width="50%" src="https://user-images.githubusercontent.com/111086848/187573699-f780cb15-710d-45a5-bfac-d7a5334d3726.gif" />
 
@@ -16,4 +17,4 @@
 
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
-📫How to find me:https://www.linkedin.com/in/tetianakoziychuk/
+📫How to find me: https://www.linkedin.com/in/tetianakoziychuk/
