@@ -19,8 +19,7 @@
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 
 
-![image](https://user-images.githubusercontent.com/111086848/187807359-100dcec8-aba0-4c1a-95c3-c17ded2bad0d.png)
 # 📫How to find me:
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="tetianakoziychuk" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/tetianakoziychuk?trk=profile-badge"> Tetiana Koziychuk</a></div>
 
+[![image](https://user-images.githubusercontent.com/111086848/187808212-a7c1cee3-427a-409e-83f9-f60ae83704dc.png)](https://www.linkedin.com/feed/)
 
