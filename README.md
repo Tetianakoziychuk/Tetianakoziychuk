@@ -3,7 +3,6 @@
 # I am a QA Manual and Automation Engineer 
 
 <img align="left" width="50%" src="https://user-images.githubusercontent.com/111086848/187573699-f780cb15-710d-45a5-bfac-d7a5334d3726.gif" />
-
 <img align="right" width="40%" src="https://user-images.githubusercontent.com/111086848/187575211-7d416320-5d8f-4f43-805d-f01c8588c7dc.jpg" />
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
