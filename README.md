@@ -18,8 +18,8 @@
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 
 
-# 📫How to find me:
+ 📫How to find me:
 
 [![image](https://user-images.githubusercontent.com/111086848/187808212-a7c1cee3-427a-409e-83f9-f60ae83704dc.png)](https://www.linkedin.com/feed/)
 
-# Sometimes you win - sometimes you learn
+ Sometimes you win - sometimes you learn
